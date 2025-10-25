@@ -1,0 +1,1828 @@
+[
+  {
+    "page": 11,
+    "title": "Sindhi Biryani",
+    "prep_time": "30 Minutes",
+    "cook_time": "50 Minutes",
+    "servings": "10",
+    "nutrition": {
+      "energy": "487 Kcal",
+      "fat": "25 g",
+      "protein": "35 g",
+      "carbohydrates": "25 g"
+    },
+    "ingredients": [
+      {
+        "item": "Whole Chicken",
+        "quantity_unit": "1.5 kg"
+      },
+      {
+        "item": "Rice, Washed & Soaked",
+        "quantity_unit": "750 g"
+      },
+      {
+        "item": "Tomatoes, Sliced",
+        "quantity_unit": "300 g (5 pcs)"
+      },
+      {
+        "item": "Potatoes, Cut in Cubes",
+        "quantity_unit": "300 g (3 pcs)"
+      },
+      {
+        "item": "Plain Yogurt, Whipped",
+        "quantity_unit": "100 g (1.5 cup)"
+      },
+      {
+        "item": "Onions",
+        "quantity_unit": "175 g"
+      },
+      {
+        "item": "Garlic",
+        "quantity_unit": "2 tbsp"
+      },
+      {
+        "item": "Ginger",
+        "quantity_unit": "2 tbsp"
+      },
+      {
+        "item": "Small Green Chillies",
+        "quantity_unit": "4 pcs, cut in half"
+      },
+      {
+        "item": "Fresh Coriander, Chopped",
+        "quantity_unit": "1 cup"
+      },
+      {
+        "item": "Mint Leaves",
+        "quantity_unit": "1 cup"
+      },
+      {
+        "item": "Cooking Oil",
+        "quantity_unit": "200 ml"
+      },
+      {
+        "item": "Sindhi Biryani Masala Pack",
+        "quantity_unit": "1 pack (available at grocery stores)"
+      }
+    ],
+    "method": "Fry onions in hot oil until light golden. Add meat and garlic paste. Stir fry for 4–5 minutes on high heat. Add Sindhi biryani masala pack, potatoes, yogurt, and ginger paste (prepare by grinding ginger in 2 tbsp water). Stir fry for 5 minutes. Mix water with meat (if beef/lamb then 4 cups, if chicken then 2 cups). Cover and cook on low heat until meat is tender. When cooked there should be about 2 cups of gravy left (if less, add more water; if too much, increase heat). Place sliced tomatoes, green chilies, fresh coriander, and mint leaves over the meat. Do not mix meat. Cover and cook on low heat for 5 minutes. Separately, mix 3 tbsp of salt into 3 liters of boiling water. Add soaked rice. Boil rice until ¾ cooked. Remove and drain thoroughly. Spread cooked rice evenly over meat. Do not mix rice and meat. Cover and cook on low heat until rice is tender (5–10 minutes). Mix gently before serving."
+  },
+  {
+    "page": 12,
+    "title": "Khichri",
+    "prep_time": "10 minutes",
+    "cook_time": "40 minutes",
+    "servings": "3",
+    "nutrition": {
+      "energy": "178 Kcal",
+      "fat": "4 g",
+      "protein": "8 g",
+      "carbohydrates": "29 g"
+    },
+    "ingredients": [
+      {
+        "item": "Rice",
+        "quantity_unit": "1/2 cup"
+      },
+      {
+        "item": "Moong Dhal",
+        "quantity_unit": "1/2 cup"
+      },
+      {
+        "item": "Turmeric Powder",
+        "quantity_unit": "1/4 tsp"
+      },
+      {
+        "item": "Hing Powder",
+        "quantity_unit": "1/8 tsp"
+      },
+      {
+        "item": "Ghee",
+        "quantity_unit": "1 tsp"
+      },
+      {
+        "item": "Oil",
+        "quantity_unit": "1 tsp"
+      },
+      {
+        "item": "Cumin Seeds",
+        "quantity_unit": "1/4 tsp"
+      },
+      {
+        "item": "Mustard Seeds",
+        "quantity_unit": "1/4 tsp"
+      },
+      {
+        "item": "Ginger (finely chopped)",
+        "quantity_unit": "1 tsp"
+      },
+      {
+        "item": "Green Chilli (finely chopped)",
+        "quantity_unit": "1"
+      },
+      {
+        "item": "Tomato (large)",
+        "quantity_unit": "1"
+      },
+      {
+        "item": "Green Peas",
+        "quantity_unit": "3/4 cup"
+      },
+      {
+        "item": "Salt",
+        "quantity_unit": "To taste"
+      },
+      {
+        "item": "Cilantro",
+        "quantity_unit": "For garnishing"
+      }
+    ],
+    "method": "Mix 1/2 cup of rice and 1/2 cup of moong dal in a bowl. Soak the mixture in water for 20 minutes, then drain and leave aside. Put the rice and dal mixture in a pressure cooker and add 3–4 cups of water to it. Add salt, turmeric powder, and hing powder. Cook on high heat for 5 whistles until the rice and dal have a mushy texture. Leave the mixture aside for a while. Heat a pan on medium heat, add ghee and oil (or only oil to keep it vegan). Once heated, add cumin seeds and mustard seeds, cooking until cumin seeds sizzle and mustard seeds pop. Add chopped ginger and green chilli, sauté for 30 seconds or until light golden brown. Add chopped tomatoes and green peas, and cook for another 2 minutes without letting the tomatoes get too mushy. Add the cooked rice and dal mixture to the pan, stir well, and adjust salt. Garnish with cilantro and serve hot with extra ghee on top, accompanied by papad, achar, and yogurt."
+  },
+  {
+    "page": 17,
+    "title": "Daal Ghosht",
+    "prep_time": "20 minutes",
+    "cook_time": "40 minutes",
+    "servings": "5",
+    "nutrition": {
+      "energy": "474 Kcal",
+      "fat": "29 g",
+      "protein": "40 g",
+      "carbohydrates": "17 g"
+    },
+    "ingredients": [
+      {
+        "item": "Meat/Mutton",
+        "quantity_unit": "500 g"
+      },
+      {
+        "item": "Onions (medium, finely sliced)",
+        "quantity_unit": "3 pieces"
+      },
+      {
+        "item": "Split Chickpeas",
+        "quantity_unit": "1/2 cup"
+      },
+      {
+        "item": "Oil",
+        "quantity_unit": "3 tbsp"
+      },
+      {
+        "item": "Ginger-Garlic Paste",
+        "quantity_unit": "1 tbsp"
+      },
+      {
+        "item": "Green Chilli",
+        "quantity_unit": "4 pieces"
+      },
+      {
+        "item": "Salt",
+        "quantity_unit": "To taste"
+      },
+      {
+        "item": "Red Chilli Powder",
+        "quantity_unit": "1 tsp"
+      },
+      {
+        "item": "Turmeric Powder",
+        "quantity_unit": "1/2 tsp"
+      },
+      {
+        "item": "Readymade Garam Masala Powder",
+        "quantity_unit": "1 tsp"
+      },
+      {
+        "item": "Mint Leaves",
+        "quantity_unit": "1 tbsp"
+      },
+      {
+        "item": "Coriander Leaves",
+        "quantity_unit": "1 tbsp"
+      },
+      {
+        "item": "Yogurt (beaten)",
+        "quantity_unit": "1 cup"
+      },
+      {
+        "item": "Coconut Powder (dry, roasted)",
+        "quantity_unit": "1 tbsp"
+      }
+    ],
+    "method": "Soak the chickpeas in water for 30–60 minutes. Heat oil in a pressure cooker, then add sliced onions and sauté until translucent. Slit the green chillies, sauté them, and add ginger-garlic paste. Add the mutton pieces and roast them lightly. Stir in salt, red chilli powder, and turmeric powder, mixing well and cooking for a few minutes. Add the soaked chickpeas and cook briefly before stirring in the beaten yogurt. Mix well, then add roasted dry coconut powder and cook for 3–5 minutes. Add water as needed to ensure the mutton and chickpeas become tender. Once cooked, reduce the steam and add garam masala powder, mint leaves, and coriander leaves. Let it cook for a short while, then remove from heat. Serve hot with roti or rice. Soaking chickpeas is important as they take longer to tenderize compared to other lentils."
+  },
+  {
+    "page": 18,
+    "title": "Nihari",
+    "prep_time": "20 minutes",
+    "cook_time": "4–5 hours",
+    "servings": "6",
+    "nutrition": {
+      "energy": "313 Kcal",
+      "fat": "18 g",
+      "protein": "38 g",
+      "carbohydrates": "0 g"
+    },
+    "ingredients": [
+      {
+        "item": "Salt",
+        "quantity_unit": "To taste"
+      },
+      {
+        "item": "Chili Powder",
+        "quantity_unit": "2 tsp"
+      },
+      {
+        "item": "Fennel Seeds",
+        "quantity_unit": "1 tsp"
+      },
+      {
+        "item": "Whole Black Pepper",
+        "quantity_unit": "1/2 tsp"
+      },
+      {
+        "item": "Cumin Seeds",
+        "quantity_unit": "1/2 tsp"
+      },
+      {
+        "item": "Cardamom Pods",
+        "quantity_unit": "2 pieces"
+      },
+      {
+        "item": "Cloves",
+        "quantity_unit": "10 pieces"
+      },
+      {
+        "item": "Cardamom (large)",
+        "quantity_unit": "2 pieces"
+      },
+      {
+        "item": "Cinnamon",
+        "quantity_unit": "2 sticks"
+      },
+      {
+        "item": "Turmeric",
+        "quantity_unit": "1/2 tsp"
+      },
+      {
+        "item": "Bay Leaf",
+        "quantity_unit": "2 pieces"
+      },
+      {
+        "item": "Nutmeg (crushed)",
+        "quantity_unit": "1 pinch"
+      },
+      {
+        "item": "Coriander Seeds",
+        "quantity_unit": "2 tsp"
+      },
+      {
+        "item": "Beef Boneless",
+        "quantity_unit": "1 kg"
+      },
+      {
+        "item": "Ginger",
+        "quantity_unit": "1 piece, for garnishing"
+      },
+      {
+        "item": "Green Chilies",
+        "quantity_unit": "4 pieces, for garnishing"
+      },
+      {
+        "item": "Coriander Leaves",
+        "quantity_unit": "1/2 bunch, for garnishing"
+      }
+    ],
+    "method": "Heat oil in a heavy-based pot, add beef, and fry until lightly browned. Add salt, chili powder, turmeric, coriander powder, and ginger paste, mixing well before adding a little water. Dissolve flour in 1/2 cup water and add to the meat, bringing the mixture to a boil. Grind all the whole spices, tie them in a fine cotton cloth, and add the spice bundle to the pot. Pour in 3–4 cups of water, cover, and cook on a very low flame until the meat is tender. This can take 5–6 hours for beef or mutton, and less if using chicken. Once the meat is soft, remove the spice bundle and simmer the curry to the desired consistency. For garnish, fry onion slices until golden brown and add them to the nihari, along with chopped coriander, ginger, and green chilies."
+  },
+  {
+    "page": 20,
+    "title": "Kunna",
+    "prep_time": "30 minutes",
+    "cook_time": "4 hours",
+    "servings": "8",
+    "nutrition": {
+      "energy": "483 Kcal",
+      "fat": "30 g",
+      "protein": "43 g",
+      "carbohydrates": "11 g"
+    },
+    "ingredients": [
+      {
+        "item": "Mutton Shank with Bone",
+        "quantity_unit": "1–1.5 kg (6–8 large pieces)"
+      },
+      {
+        "item": "Oil",
+        "quantity_unit": "1/2 cup"
+      },
+      {
+        "item": "Garlic Paste",
+        "quantity_unit": "3 tbsp"
+      },
+      {
+        "item": "Ginger Paste",
+        "quantity_unit": "3 tbsp"
+      },
+      {
+        "item": "Red Chilli Powder",
+        "quantity_unit": "4 tsp"
+      },
+      {
+        "item": "Salt",
+        "quantity_unit": "1 tsp"
+      },
+      {
+        "item": "Yogurt",
+        "quantity_unit": "4 tbsp"
+      },
+      {
+        "item": "Cumin",
+        "quantity_unit": "2 tbsp"
+      },
+      {
+        "item": "Aniseed",
+        "quantity_unit": "2 tbsp"
+      },
+      {
+        "item": "Black Pepper",
+        "quantity_unit": "2 tbsp"
+      },
+      {
+        "item": "Dry Ginger",
+        "quantity_unit": "2 tbsp"
+      },
+      {
+        "item": "Black Cardamom",
+        "quantity_unit": "2 tbsp"
+      },
+      {
+        "item": "Cloves",
+        "quantity_unit": "1 tbsp"
+      },
+      {
+        "item": "Nutmeg",
+        "quantity_unit": "1 tsp"
+      },
+      {
+        "item": "Mace",
+        "quantity_unit": "1 tbsp"
+      },
+      {
+        "item": "Flour",
+        "quantity_unit": "6 tbsp"
+      },
+      {
+        "item": "Onion (thinly sliced)",
+        "quantity_unit": "2 large"
+      },
+      {
+        "item": "Green Chilies (chopped)",
+        "quantity_unit": "For garnishing"
+      },
+      {
+        "item": "Ginger (chopped)",
+        "quantity_unit": "For garnishing"
+      },
+      {
+        "item": "Lemon Slices",
+        "quantity_unit": "For garnishing"
+      }
+    ],
+    "method": "Heat oil in a pot and add the meat, ginger, garlic, red chili powder, and salt. Fry for 5–8 minutes, stirring frequently, until the meat turns brown. Add yogurt and continue frying until the moisture evaporates. Add water and cook over medium heat for about 1 hour or until the meat is done. Meanwhile, grind cumin, aniseed, black pepper, dry ginger, black cardamoms, cloves, nutmeg, and mace into a fine powder and sieve it. Add 3–4 tablespoons of this spice mix to the meat, cover, and cook on low heat until the meat is fully tender. Dissolve flour in 2 cups of water and carefully pour it into the gravy while stirring gently (avoid stirring too hard to prevent the meat from breaking). In a separate pan, heat oil and fry the sliced onions for 10 minutes until golden brown. Remove the onions with a slotted spoon and add them to the kunna, stirring carefully. Garnish with chopped green chilies, chopped ginger, and lemon slices before serving."
+  },
+  {
+    "page": 21,
+    "title": "Paya",
+    "prep_time": "30 minutes",
+    "cook_time": "1 hour 45 minutes",
+    "servings": "4",
+    "nutrition": {
+      "energy": "941 Kcal",
+      "fat": "103 g",
+      "protein": "3 g",
+      "carbohydrates": "0 g"
+    },
+    "ingredients": [
+      {
+        "item": "Sheep's Trotters",
+        "quantity_unit": "4 pieces"
+      },
+      {
+        "item": "Rice Flour",
+        "quantity_unit": "1 tbsp"
+      },
+      {
+        "item": "Lemon Juice",
+        "quantity_unit": "1 tbsp"
+      },
+      {
+        "item": "Ghee",
+        "quantity_unit": "1/2 cup"
+      },
+      {
+        "item": "Cumin Seeds",
+        "quantity_unit": "1 tsp"
+      },
+      {
+        "item": "Onions (grated)",
+        "quantity_unit": "1 cup"
+      },
+      {
+        "item": "Ginger Paste",
+        "quantity_unit": "1 tsp"
+      },
+      {
+        "item": "Garlic Paste",
+        "quantity_unit": "1 tsp"
+      },
+      {
+        "item": "Tomatoes (chopped)",
+        "quantity_unit": "1 cup"
+      },
+      {
+        "item": "Green Chilli (chopped)",
+        "quantity_unit": "1 piece"
+      },
+      {
+        "item": "Chilli Powder",
+        "quantity_unit": "1 tsp"
+      },
+      {
+        "item": "Turmeric Powder",
+        "quantity_unit": "1/2 tsp"
+      },
+      {
+        "item": "Readymade Garam Masala",
+        "quantity_unit": "1/2 tsp"
+      },
+      {
+        "item": "Salt",
+        "quantity_unit": "To taste"
+      }
+    ],
+    "method": "Wash the trotters and cut each into two pieces. Rub them with rice flour and salt, then wash again. Soak the trotters in 2 cups of water in a pan, add salt to taste, and bring to a boil. Lower the heat and simmer for 1 1/2 hours, adding more water if needed. To prepare the masala, heat ghee and add cumin seeds until they splutter. Add grated onion, ginger paste, and garlic paste, cooking until the fat separates. Stir in tomatoes, green chilli, chilli powder, turmeric, garam masala, and salt. Add this masala mixture to the trotters and stir-fry until well coated. Finally, add the stock from the trotters along with extra water as needed to reach the desired gravy consistency. Simmer for 3–4 minutes and serve hot."
+  },
+  {
+    "page": 22,
+    "title": "Haleem",
+    "prep_time": "10 minutes",
+    "cook_time": "50 minutes",
+    "servings": "8",
+    "nutrition": {
+      "energy": "630 Kcal",
+      "fat": "37 g",
+      "protein": "46 g",
+      "carbohydrates": "27 g"
+    },
+    "ingredients": [
+      {
+        "item": "Mutton (small cuts, boiled)",
+        "quantity_unit": "1 kg"
+      },
+      {
+        "item": "Daal Mash (boiled)",
+        "quantity_unit": "1/2 cup"
+      },
+      {
+        "item": "Daal Moong (boiled)",
+        "quantity_unit": "1/2 cup"
+      },
+      {
+        "item": "Daal Chana (boiled)",
+        "quantity_unit": "1/2 cup"
+      },
+      {
+        "item": "Daal Masoor (boiled)",
+        "quantity_unit": "1/2 cup"
+      },
+      {
+        "item": "Wheat",
+        "quantity_unit": "1 cup"
+      },
+      {
+        "item": "Oil",
+        "quantity_unit": "1 cup"
+      },
+      {
+        "item": "Onion",
+        "quantity_unit": "250 g"
+      },
+      {
+        "item": "Ginger-Garlic Paste",
+        "quantity_unit": "1 tbsp"
+      },
+      {
+        "item": "Readymade Garam Masala (powder)",
+        "quantity_unit": "1 tsp"
+      },
+      {
+        "item": "Readymade Haleem Masala",
+        "quantity_unit": "50 g"
+      }
+    ],
+    "method": "Mix boiled mutton with ginger-garlic paste, haleem masala, and 2 glasses of water. Braise gently over heat until the meat tenderizes, then mash thoroughly. Grind the boiled daals and wheat, then mix into the meat. Simmer for 30 minutes, then add garam masala powder. In a separate pan, heat oil and fry finely sliced onions until golden brown and crisp. Pour the fried onions and oil over the haleem, bring to a quick boil, and serve piping hot."
+  },
+  {
+    "page": 27,
+    "title": "Lahori Fish",
+    "prep_time": "30 minutes",
+    "cook_time": "20 minutes",
+    "servings": "3",
+    "nutrition": {
+      "energy": "585 Kcal",
+      "fat": "30 g",
+      "protein": "34 g",
+      "carbohydrates": "44 g"
+    },
+    "ingredients": [
+      {
+        "item": "Fish Fillet",
+        "quantity_unit": "1/2 kg"
+      },
+      {
+        "item": "Lemon Juice",
+        "quantity_unit": "2–3 tbsp"
+      },
+      {
+        "item": "Salt",
+        "quantity_unit": "1 tsp"
+      },
+      {
+        "item": "Ginger-Garlic Paste",
+        "quantity_unit": "1 tsp"
+      },
+      {
+        "item": "Anardana",
+        "quantity_unit": "1 tsp"
+      },
+      {
+        "item": "Red Chilli Flakes (heaped)",
+        "quantity_unit": "1 tsp"
+      },
+      {
+        "item": "Ajwain",
+        "quantity_unit": "1/2 tsp"
+      },
+      {
+        "item": "Cumin (roasted & crushed)",
+        "quantity_unit": "1 tsp"
+      },
+      {
+        "item": "Coriander (roasted & crushed)",
+        "quantity_unit": "1/2 tsp"
+      },
+      {
+        "item": "Turmeric (Haldi)",
+        "quantity_unit": "1/4 tsp"
+      },
+      {
+        "item": "Chickpea Flour (Besan)",
+        "quantity_unit": "4 tbsp"
+      },
+      {
+        "item": "Chaat Masala",
+        "quantity_unit": "2 pinches"
+      }
+    ],
+    "method": "Clean fish fillets and pat dry to prevent excess moisture. If a strong fishy smell remains, rub lemon juice and salt over the fillets and rinse after 30 minutes. Apply all ingredients (except chickpea flour and chaat masala) to the fish. Marinate for 4–5 hours, or preferably overnight. After marination, coat fish lightly with chickpea flour and dust off excess. Deep-fry or shallow-fry until golden. If shallow frying, avoid moving fillets too much as coating may break. Once fried, sprinkle chaat masala on top. Serve hot with tamarind chutney, naan, or tandoori roti."
+  },
+  {
+    "page": 29,
+    "title": "Chicken Tikka",
+    "prep_time": "20 minutes",
+    "nutrition": {
+      "energy": "357 Kcal",
+      "fat": "35 g",
+      "protein": "10 g",
+      "carbohydrates": "1 g"
+    },
+    "ingredients": [
+      {
+        "item": "Garlic Paste",
+        "quantity_unit": "1 tbsp"
+      },
+      {
+        "item": "Ginger Paste",
+        "quantity_unit": "1/2 tsp"
+      },
+      {
+        "item": "Coriander Powder",
+        "quantity_unit": "2 pinches"
+      },
+      {
+        "item": "Red Chilli (chopped)",
+        "quantity_unit": "1 piece"
+      },
+      {
+        "item": "Oil",
+        "quantity_unit": "2 tbsp"
+      },
+      {
+        "item": "Chicken (leg pieces)",
+        "quantity_unit": "4 pieces"
+      },
+      {
+        "item": "Yogurt",
+        "quantity_unit": "1/2 cup"
+      },
+      {
+        "item": "Lemon Juice",
+        "quantity_unit": "1 tsp"
+      },
+      {
+        "item": "Salt",
+        "quantity_unit": "to taste"
+      }
+    ],
+    "method": "Wash the chicken pieces thoroughly and drain excess water. Prepare a marination paste by mixing yogurt with garlic paste, ginger paste, coriander powder, chopped red chilli, lemon juice, oil, and salt. Blend until smooth. Coat chicken pieces with the marinade and refrigerate for 4 hours. Skewer the chicken and grill over a charcoal fire until cooked and slightly charred. Serve hot with rice, tandoori bread, and mint chutney."
+  },
+  {
+    "page": 30,
+    "title": "Tandoori Lamb Chops",
+    "prep_time": "40 minutes",
+    "cook_time": "30 minutes",
+    "servings": "4",
+    "nutrition": {
+      "energy": "112 Kcal",
+      "fat": "6 g",
+      "protein": "13 g",
+      "carbohydrates": "1 g"
+    },
+    "ingredients": [
+      {
+        "item": "Yogurt",
+        "quantity_unit": "200 g"
+      },
+      {
+        "item": "Cumin Powder",
+        "quantity_unit": "1 1/2 tsp"
+      },
+      {
+        "item": "Readymade Garam Masala",
+        "quantity_unit": "1 tsp"
+      },
+      {
+        "item": "Coriander Powder",
+        "quantity_unit": "1 1/2 tsp"
+      },
+      {
+        "item": "Turmeric Powder",
+        "quantity_unit": "1 tsp"
+      },
+      {
+        "item": "Chilli Powder",
+        "quantity_unit": "1 1/2 tsp"
+      },
+      {
+        "item": "Salt",
+        "quantity_unit": "To taste"
+      },
+      {
+        "item": "Lemon Juice",
+        "quantity_unit": "4 tbsp"
+      },
+      {
+        "item": "Ginger-Garlic Paste",
+        "quantity_unit": "2 tbsp"
+      },
+      {
+        "item": "Lamb Chops (on bone)",
+        "quantity_unit": "12 pieces"
+      }
+    ],
+    "method": "Apply salt and ginger-garlic paste to the lamb chops and set aside for 20 minutes. In a bowl, prepare a marinade with yogurt, cumin powder, garam masala, coriander powder, turmeric powder, chilli powder, and lemon juice. Coat the lamb chops with this marinade and cover the bowl, letting it rest for 30–60 minutes. Arrange the lamb chops on skewers and cook in a pre-heated tandoor or over a charcoal grill until tender and slightly charred. Once cooked, remove from the heat, garnish with fresh coriander leaves, and serve hot with mint chutney, onion rings, and either white rice or tandoori bread/naan."
+  },
+  {
+    "page": 32,
+    "title": "Takka Takk",
+    "prep_time": "20 minutes",
+    "cook_time": "40 minutes",
+    "servings": "5",
+    "nutrition": {
+      "energy": "225 Kcal",
+      "fat": "9 g",
+      "protein": "22 g",
+      "carbohydrates": "25 g"
+    },
+    "ingredients": [
+      {
+        "item": "Minced Mutton",
+        "quantity_unit": "1 kg"
+      },
+      {
+        "item": "Boiled Kidneys",
+        "quantity_unit": "250 g"
+      },
+      {
+        "item": "Boiled Kapuray",
+        "quantity_unit": "250 g"
+      },
+      {
+        "item": "Boiled Mutton Brain",
+        "quantity_unit": "6 pieces"
+      },
+      {
+        "item": "Onion (chopped)",
+        "quantity_unit": "2 tbsp"
+      },
+      {
+        "item": "Tomato (chopped)",
+        "quantity_unit": "3 pieces"
+      },
+      {
+        "item": "Ginger & Garlic Paste",
+        "quantity_unit": "100 g"
+      },
+      {
+        "item": "Green Chilli (chopped)",
+        "quantity_unit": "5 pieces"
+      },
+      {
+        "item": "Coriander (crushed)",
+        "quantity_unit": "For garnish"
+      },
+      {
+        "item": "Salt",
+        "quantity_unit": "To taste"
+      },
+      {
+        "item": "Crushed Chilli",
+        "quantity_unit": "2 tsp"
+      },
+      {
+        "item": "Red Chilli",
+        "quantity_unit": "1 tsp"
+      },
+      {
+        "item": "Turmeric",
+        "quantity_unit": "1 tsp"
+      },
+      {
+        "item": "Cumin Seeds",
+        "quantity_unit": "2 tsp"
+      },
+      {
+        "item": "Carom Seeds",
+        "quantity_unit": "1 tbsp"
+      },
+      {
+        "item": "Whole Coriander (crushed)",
+        "quantity_unit": "1 tsp"
+      },
+      {
+        "item": "Cooking Oil",
+        "quantity_unit": "1 cup"
+      }
+    ],
+    "method": "Heat cooking oil on a large hot plate. Add chopped onions and sauté until light brown, then add ginger-garlic paste and cook until brown. Add minced mutton and stir until partially cooked. Mix in all spices and add chopped tomatoes, cooking for 20 minutes until all ingredients are well blended and oil separates. Add boiled kidneys, kapuray, and mutton brain, mixing thoroughly. Cook while stirring until the “takka takk” sound is produced from the hot plate, indicating the dish is ready."
+  },
+  {
+    "page": 33,
+    "title": "Bihari Kabbab",
+    "prep_time": "40 minutes",
+    "cook_time": "30 minutes",
+    "servings": "5",
+    "nutrition": {
+      "energy": "360 Kcal",
+      "fat": "19 g",
+      "protein": "44 g",
+      "carbohydrates": "4 g"
+    },
+    "ingredients": [
+      {
+        "item": "Beef Tenderloin (cut into 1-inch strips)",
+        "quantity_unit": "1 kg"
+      },
+      {
+        "item": "Vegetable Oil",
+        "quantity_unit": "2 tbsp"
+      },
+      {
+        "item": "Ginger Paste",
+        "quantity_unit": "1 tbsp"
+      },
+      {
+        "item": "Garlic Paste",
+        "quantity_unit": "2 tsp"
+      },
+      {
+        "item": "Cumin Powder",
+        "quantity_unit": "1 tsp"
+      },
+      {
+        "item": "Coriander Powder",
+        "quantity_unit": "2 tsp"
+      },
+      {
+        "item": "Papaya Paste",
+        "quantity_unit": "2 tbsp"
+      },
+      {
+        "item": "Ground Pepper",
+        "quantity_unit": "1/2 tsp"
+      },
+      {
+        "item": "Red Chilli Powder",
+        "quantity_unit": "1 1/2 tsp"
+      },
+      {
+        "item": "Star Anise (ground)",
+        "quantity_unit": "1/2 tsp"
+      },
+      {
+        "item": "Mace (ground)",
+        "quantity_unit": "1/2 tsp"
+      },
+      {
+        "item": "Salt",
+        "quantity_unit": "To taste"
+      },
+      {
+        "item": "Yogurt",
+        "quantity_unit": "1 cup"
+      },
+      {
+        "item": "Onions (thinly sliced)",
+        "quantity_unit": "2 pieces"
+      }
+    ],
+    "method": "Fry the onions until golden-brown and soft, then drain on a paper towel. Grind the fried onions into a paste using a blender or food processor. Mix the beef strips with onion paste, all spices, and yogurt in a mixing bowl (preferably glass or stainless steel). Refrigerate overnight or at least 8 hours. After marination, mix the beef with papaya paste and leave aside for 1 hour. Thread the beef strips onto skewers and grill or broil in the oven for 20 minutes. Rotate the skewers and cook for another 20 minutes or until done. Bihari Kabbab is best served wrapped in paratha, garnished with lemon juice, a pinch of chopped onions, and a pinch of chopped parsley."
+  },
+  {
+    "page": 37,
+    "title": "Bhagairey Baingan",
+    "prep_time": "20 minutes",
+    "cook_time": "40 minutes",
+    "servings": "6",
+    "nutrition": {
+      "energy": "129 Kcal",
+      "fat": "10 g",
+      "protein": "1 g",
+      "carbohydrates": "10 g"
+    },
+    "ingredients": [
+      {
+        "item": "Baingan (small)",
+        "quantity_unit": "6–8 pieces"
+      },
+      {
+        "item": "Oil (for deep frying)",
+        "quantity_unit": "As needed"
+      },
+      {
+        "item": "Oil (for cooking)",
+        "quantity_unit": "5 tbsp"
+      },
+      {
+        "item": "Onion (chopped)",
+        "quantity_unit": "4 pieces"
+      },
+      {
+        "item": "Ginger",
+        "quantity_unit": "1 tsp"
+      },
+      {
+        "item": "Garlic",
+        "quantity_unit": "1 tbsp"
+      },
+      {
+        "item": "Dry Coconut (grated)",
+        "quantity_unit": "2 tbsp"
+      },
+      {
+        "item": "Coriander (roasted)",
+        "quantity_unit": "1 tsp"
+      },
+      {
+        "item": "Brown Cumin Seed",
+        "quantity_unit": "1 tsp"
+      },
+      {
+        "item": "Tamarind Paste",
+        "quantity_unit": "1 tbsp"
+      },
+      {
+        "item": "Salt",
+        "quantity_unit": "To taste"
+      },
+      {
+        "item": "Turmeric",
+        "quantity_unit": "1 tsp"
+      },
+      {
+        "item": "Red Chilli Powder",
+        "quantity_unit": "1 tsp"
+      },
+      {
+        "item": "Curry Leaves",
+        "quantity_unit": "5 pieces"
+      },
+      {
+        "item": "Coriander (fresh, for garnish)",
+        "quantity_unit": "1 tbsp"
+      },
+      {
+        "item": "Brown Sesame Seed",
+        "quantity_unit": "1/2 tsp"
+      }
+    ],
+    "method": "Slit the baingans and deep fry them over high heat until glossy and slightly tender. Remove and set aside. Grind dry coconut, roasted coriander, cumin, and sesame seeds together, adding a little water if needed. Heat 1/4 cup oil in a pan, sauté chopped onions, ginger, and garlic until the onions are soft and slightly transparent. Add curry leaves, then the ground mixture, and sauté until the fat separates. Add tamarind paste, salt, turmeric, and red chilli powder, mixing well. Add the fried baingan pieces along with 1/4 cup water, bring to a boil, cover, and simmer for about 5 minutes. Garnish with fresh coriander and serve hot with tandoori bread or naan."
+  },
+  {
+    "page": 39,
+    "title": "Sarsun Ka Saag",
+    "prep_time": "10 minutes",
+    "cook_time": "80 minutes",
+    "servings": "4",
+    "nutrition": {
+      "energy": "78 Kcal",
+      "fat": "26 g",
+      "protein": "8 g",
+      "carbohydrates": "14 g"
+    },
+    "ingredients": [
+      {
+        "item": "Sarson Saag",
+        "quantity_unit": "750 g"
+      },
+      {
+        "item": "Palak Saag",
+        "quantity_unit": "250 g"
+      },
+      {
+        "item": "Bathua Saag",
+        "quantity_unit": "250 g"
+      },
+      {
+        "item": "Water (with a pinch of salt)",
+        "quantity_unit": "2 cups"
+      },
+      {
+        "item": "Makkai Ka Atta",
+        "quantity_unit": "1 1/2 cups"
+      },
+      {
+        "item": "Green Chilli",
+        "quantity_unit": "4 pieces"
+      },
+      {
+        "item": "Ginger",
+        "quantity_unit": "25 g"
+      },
+      {
+        "item": "Onion (chopped)",
+        "quantity_unit": "2 pieces"
+      },
+      {
+        "item": "Garlic",
+        "quantity_unit": "6 cloves"
+      },
+      {
+        "item": "Ghee",
+        "quantity_unit": "100 g"
+      },
+      {
+        "item": "Red Pepper (powder)",
+        "quantity_unit": "1/2 tsp"
+      },
+      {
+        "item": "Readymade Garam Masala",
+        "quantity_unit": "1/2 tsp"
+      },
+      {
+        "item": "Coriander Powder",
+        "quantity_unit": "1/2 tsp"
+      }
+    ],
+    "method": "Mix the three saags, salt, and water in a pressure cooker and cook over low flame for 1 1/2 hours. Squeeze out the saag and keep the saag water aside. Mash the saag in the cooker until coarsely ground, then add makkai atta and stir. Return the saag to the water, add some fresh water, and boil over a slow flame. Add green chillies and ginger and cook until the saag thickens. For the tadka, sauté chopped onions, ginger, garlic, red pepper powder, readymade garam masala, and coriander powder until the onions turn light brown. Mix the tadka into the saag and garnish with julienne of ginger fried in ghee."
+  },
+  {
+    "page": 40,
+    "title": "Mix Sabzi",
+    "prep_time": "30 minutes",
+    "cook_time": "35 minutes",
+    "servings": "4",
+    "nutrition": {
+      "energy": "82 Kcal",
+      "fat": "1 g",
+      "protein": "4 g",
+      "carbohydrates": "34 g"
+    },
+    "ingredients": [
+      {
+        "item": "Potato (diced)",
+        "quantity_unit": "1–2 pieces"
+      },
+      {
+        "item": "Green Peas",
+        "quantity_unit": "1/2 cup"
+      },
+      {
+        "item": "Carrots (diced)",
+        "quantity_unit": "1–2 pieces"
+      },
+      {
+        "item": "Eggplant (diced)",
+        "quantity_unit": "1 piece"
+      },
+      {
+        "item": "Gobi",
+        "quantity_unit": "1/2 head"
+      },
+      {
+        "item": "Tomato (chopped)",
+        "quantity_unit": "2 pieces"
+      },
+      {
+        "item": "Onion (chopped)",
+        "quantity_unit": "1–2 pieces"
+      },
+      {
+        "item": "Ginger-Garlic Paste",
+        "quantity_unit": "1 tbsp"
+      },
+      {
+        "item": "Cumin Powder",
+        "quantity_unit": "1 tsp"
+      },
+      {
+        "item": "Turmeric Powder",
+        "quantity_unit": "1/2 tsp"
+      },
+      {
+        "item": "Red Chilli Powder",
+        "quantity_unit": "1 tsp"
+      },
+      {
+        "item": "Cumin Seeds",
+        "quantity_unit": "1 tsp"
+      },
+      {
+        "item": "Cooking Oil",
+        "quantity_unit": "2 tbsp"
+      },
+      {
+        "item": "Fresh Coriander",
+        "quantity_unit": "For garnish"
+      }
+    ],
+    "method": "Sauté chopped onion in medium-hot oil until tender. Add ginger-garlic paste, salt, and all spices, mixing well. Stir in water and add all the vegetables, stirring frequently until vegetables are tender. Serve hot and garnish with fresh coriander and ginger."
+  },
+  {
+    "page": 44,
+    "title": "Sheermal",
+    "prep_time": "20 minutes",
+    "cook_time": "20 minutes",
+    "servings": "6",
+    "nutrition": {
+      "energy": "257 Kcal",
+      "fat": "2 g",
+      "protein": "8 g",
+      "carbohydrates": "51 g"
+    },
+    "ingredients": [
+      {
+        "item": "Refined Flour (Maida)",
+        "quantity_unit": "3 cups"
+      },
+      {
+        "item": "Milk",
+        "quantity_unit": "1 cup"
+      },
+      {
+        "item": "Milk (extra)",
+        "quantity_unit": "2 tbsp"
+      },
+      {
+        "item": "Sugar",
+        "quantity_unit": "1 tsp"
+      },
+      {
+        "item": "Ghee",
+        "quantity_unit": "1/4 cup"
+      },
+      {
+        "item": "Salt",
+        "quantity_unit": "To taste"
+      },
+      {
+        "item": "Saffron",
+        "quantity_unit": "A few strands"
+      }
+    ],
+    "method": "Soak saffron strands in 2 tbsp of hot milk for 30 minutes until dissolved. Mix flour, salt, and sugar in a bowl, then add melted ghee. Gradually add milk, kneading into a soft, smooth dough. Cover and set aside for 2 hours. Knead again and let it rest for another 2 hours. Roll the dough into 6-inch rounds, about 1/2 inch thick, and prick all over. Cook on a griddle or in a tandoor, starting on high heat, then reduce to low until cooked through and brown on both sides. Smear with the saffron milk mixture, cook a little more, and serve hot brushed with ghee."
+  },
+  {
+    "page": 45,
+    "title": "Kulcha",
+    "prep_time": "2–3 hours",
+    "cook_time": "15 minutes",
+    "servings": "6",
+    "nutrition": {
+      "energy": "478 Kcal",
+      "fat": "13 g",
+      "protein": "10 g",
+      "carbohydrates": "80 g"
+    },
+    "ingredients": [
+      {
+        "item": "Plain Flour",
+        "quantity_unit": "3 cups"
+      },
+      {
+        "item": "Butter",
+        "quantity_unit": "2 tbsp"
+      },
+      {
+        "item": "Sugar",
+        "quantity_unit": "1 tsp"
+      },
+      {
+        "item": "Yeast",
+        "quantity_unit": "1 tsp"
+      },
+      {
+        "item": "Sesame Seeds",
+        "quantity_unit": "1 tbsp"
+      },
+      {
+        "item": "Warm Water",
+        "quantity_unit": "1/2 cup"
+      },
+      {
+        "item": "Milk",
+        "quantity_unit": "As needed"
+      }
+    ],
+    "method": "Dissolve yeast and sugar in warm water and let it rise. Mix with plain flour and butter. Divide the mixture into equal portions by hand. Knead each portion with milk or water and let rest for 2–3 hours. Fold over the dough and roll each portion into a flat naan. Use a fork to create fork-marks on the surface. Bake the kulchas in a tandoor or oven until golden-brown. Bake for a few more minutes if needed and serve hot."
+  },
+  {
+    "page": 46,
+    "title": "Aloo Paratha",
+    "prep_time": "30 minutes",
+    "cook_time": "20 minutes",
+    "servings": "8",
+    "nutrition": {
+      "energy": "286 Kcal",
+      "fat": "7 g",
+      "protein": "7 g",
+      "carbohydrates": "50 g"
+    },
+    "ingredients": [
+      {
+        "item": "Potatoes",
+        "quantity_unit": "8"
+      },
+      {
+        "item": "Coriander (chopped)",
+        "quantity_unit": "1 bunch"
+      },
+      {
+        "item": "Melted Butter",
+        "quantity_unit": "4 tbsp"
+      },
+      {
+        "item": "Salt",
+        "quantity_unit": "To taste"
+      },
+      {
+        "item": "Chaat Masala",
+        "quantity_unit": "1 tbsp"
+      },
+      {
+        "item": "Green Chilli (chopped)",
+        "quantity_unit": "4 pieces"
+      },
+      {
+        "item": "Black Pepper (powdered)",
+        "quantity_unit": "1 1/2 tsp"
+      },
+      {
+        "item": "Onion (large, chopped)",
+        "quantity_unit": "1"
+      },
+      {
+        "item": "Red Chilli Powder",
+        "quantity_unit": "1 tbsp"
+      },
+      {
+        "item": "Readymade Garam Masala (powder)",
+        "quantity_unit": "1 1/2 tsp"
+      },
+      {
+        "item": "Oil",
+        "quantity_unit": "50 ml"
+      },
+      {
+        "item": "Wheat Flour",
+        "quantity_unit": "2 cups"
+      },
+      {
+        "item": "Water",
+        "quantity_unit": "1/2 cup"
+      }
+    ],
+    "method": "Boil the potatoes and mash them in a large bowl. Add chopped onions, green chillies, coriander leaves, salt, garam masala powder, and chaat masala. Mix well until smooth and lump-free. In a separate bowl, put wheat flour and gradually add water, kneading into a soft dough. Divide the dough into small to medium balls and roll each into a 3–4 inch circle. Place a spoonful of potato filling in the center, seal the dough, and gently roll into round parathas. Heat a griddle and roast the parathas, cooking both sides with a spoonful of butter. To reduce butter usage, roast on low flame first, then brush with butter when slightly crispy. Serve hot with chilled yogurt, pickle, or green chutney."
+  },
+  {
+    "page": 48,
+    "title": "Makai ki Roti",
+    "prep_time": "20 minutes",
+    "cook_time": "15 minutes",
+    "servings": "4",
+    "nutrition": {
+      "energy": "433 Kcal",
+      "fat": "15 g",
+      "protein": "8 g",
+      "carbohydrates": "70 g"
+    },
+    "ingredients": [
+      {
+        "item": "Maize Flour / Cornmeal",
+        "quantity_unit": "3 cups"
+      },
+      {
+        "item": "Salt",
+        "quantity_unit": "2 tsp"
+      },
+      {
+        "item": "Water",
+        "quantity_unit": "As required"
+      },
+      {
+        "item": "Desi Ghee / Butter",
+        "quantity_unit": "As required"
+      }
+    ],
+    "method": "Mix maize flour, salt, and lukewarm water in a bowl. Knead the mixture until it forms a smooth dough. Divide the dough into 4 equal-sized balls and flatten each into a round roti. Heat a griddle and fry the rotis on both sides with desi ghee or butter until golden. Serve hot."
+  },
+  {
+    "page": 49,
+    "title": "Bakarkhani",
+    "prep_time": "30 minutes",
+    "cook_time": "20 minutes",
+    "servings": "8",
+    "nutrition": {
+      "energy": "268 Kcal",
+      "fat": "10 g",
+      "protein": "7 g",
+      "carbohydrates": "51 g"
+    },
+    "ingredients": [
+      {
+        "item": "Refined Flour",
+        "quantity_unit": "3 cups"
+      },
+      {
+        "item": "Semolina (Suji)",
+        "quantity_unit": "1 cup"
+      },
+      {
+        "item": "Clarified Butter (Ghee)",
+        "quantity_unit": "2 tbsp"
+      },
+      {
+        "item": "Butter",
+        "quantity_unit": "5 tbsp"
+      },
+      {
+        "item": "Milk",
+        "quantity_unit": "3 tbsp"
+      },
+      {
+        "item": "Sugar",
+        "quantity_unit": "4 tbsp"
+      },
+      {
+        "item": "Green Cardamom Powder",
+        "quantity_unit": "3 tsp"
+      },
+      {
+        "item": "Ginger Powder",
+        "quantity_unit": "2 tsp"
+      },
+      {
+        "item": "Salt",
+        "quantity_unit": "2 tsp"
+      },
+      {
+        "item": "Water",
+        "quantity_unit": "As required"
+      }
+    ],
+    "method": "Mix refined flour, semolina, ghee, milk, green cardamom powder, sugar, ginger powder, and salt in a large bowl. Gradually add water and knead into a soft dough. Cover with a wet cloth and let rest for 20 minutes. Divide the dough into eight equal portions. Form each portion into a ball and roll out to a 6-inch diameter circle. Cook in a preheated oven for 12 minutes or until brown on all sides. Remove from the oven and drizzle butter over them. Serve hot."
+  },
+  {
+    "page": 50,
+    "title": "Reghni Naan",
+    "prep_time": "2–3 hours",
+    "cook_time": "15 minutes",
+    "servings": "5",
+    "nutrition": {
+      "energy": "498 Kcal",
+      "fat": "15 g",
+      "protein": "10 g",
+      "carbohydrates": "79 g"
+    },
+    "ingredients": [
+      {
+        "item": "Plain Flour",
+        "quantity_unit": "1/2 kg"
+      },
+      {
+        "item": "Butter",
+        "quantity_unit": "6 tbsp"
+      },
+      {
+        "item": "Sugar",
+        "quantity_unit": "1 tbsp"
+      },
+      {
+        "item": "Yeast",
+        "quantity_unit": "1 1/2 tsp"
+      },
+      {
+        "item": "Salt",
+        "quantity_unit": "To taste"
+      },
+      {
+        "item": "Water",
+        "quantity_unit": "As needed"
+      },
+      {
+        "item": "Milk",
+        "quantity_unit": "As needed"
+      }
+    ],
+    "method": "Dissolve yeast and 1 tbsp sugar in warm water. Once the yeast begins to rise, mix it with plain flour, salt, and butter. Knead the mixture with milk or equal portions of water into a smooth dough. Leave aside for 2–3 hours. Fold over the kneaded dough using your hands. Divide each portion into a flat naan and use a fork to make marks on it. Bake the naans in a preheated oven at 200°C for 8–10 minutes. When golden-brown, brush with butter and bake for a few more minutes. Serve hot."
+  },
+  {
+    "page": 54,
+    "title": "Kheer",
+    "prep_time": "10 minutes",
+    "cook_time": "30 minutes",
+    "servings": "8",
+    "nutrition": {
+      "energy": "202 Kcal",
+      "fat": "7 g",
+      "protein": "5 g",
+      "carbohydrates": "31 g"
+    },
+    "ingredients": [
+      {
+        "item": "Milk (Full Cream)",
+        "quantity_unit": "5 cups"
+      },
+      {
+        "item": "Rice (Washed)",
+        "quantity_unit": "1/2 cup"
+      },
+      {
+        "item": "Sugar",
+        "quantity_unit": "1/2 cup"
+      },
+      {
+        "item": "Raisins",
+        "quantity_unit": "10–12 pieces"
+      },
+      {
+        "item": "Green Cardamoms",
+        "quantity_unit": "4 pieces"
+      },
+      {
+        "item": "Almonds (Shredded, Blanched)",
+        "quantity_unit": "10–12 pieces"
+      }
+    ],
+    "method": "Boil the rice and milk in a deep pan. Simmer over low flame, stirring occasionally, until the rice is cooked and the milk thickens. Add sugar, raisins, and cardamom and stir until sugar dissolves properly. Transfer the mixture into a serving dish and garnish with almonds. Serve hot or chilled."
+  },
+  {
+    "page": 55,
+    "title": "Kulfi Falooda",
+    "prep_time": "60 minutes",
+    "cook_time": "20 minutes",
+    "servings": "5",
+    "nutrition": {
+      "energy": "265 Kcal",
+      "fat": "9 g",
+      "protein": "6 g",
+      "carbohydrates": "40 g"
+    },
+    "ingredients": [
+      {
+        "item": "Falooda Vermicelli",
+        "quantity_unit": "1/2 cup"
+      },
+      {
+        "item": "Milk",
+        "quantity_unit": "2 cups"
+      },
+      {
+        "item": "Kulfi (Ready-Made)",
+        "quantity_unit": "As required"
+      },
+      {
+        "item": "Almonds",
+        "quantity_unit": "1 tbsp"
+      },
+      {
+        "item": "Cashew Nuts",
+        "quantity_unit": "1 tbsp"
+      },
+      {
+        "item": "Pistachios",
+        "quantity_unit": "1 tbsp"
+      },
+      {
+        "item": "Castor Sugar",
+        "quantity_unit": "1/2 cup"
+      },
+      {
+        "item": "Basil Seeds (Soaked)",
+        "quantity_unit": "As required"
+      },
+      {
+        "item": "Candied Cherries",
+        "quantity_unit": "8 tsp"
+      },
+      {
+        "item": "Rose Syrup",
+        "quantity_unit": "8 tsp"
+      },
+      {
+        "item": "Raisins",
+        "quantity_unit": "For garnishing"
+      }
+    ],
+    "method": "To make the rabri, heat milk in a non-stick pan until it thickens. Add almonds, cashew nuts, pistachios, and castor sugar. Mix well and cook until the mixture reduces to half. Remove from heat and refrigerate to chill. Drain and place a portion of falooda vermicelli in individual glass mugs. Add 2 tablespoons of soaked basil seeds, and top with some kulfi cubes and cherries. Pour prepared rabri and drizzle with 2 tsp rose syrup. Garnish with almonds, pistachios, cashew nuts, raisins, kulfi pieces, and a cherry. Serve immediately."
+  },
+  {
+    "page": 57,
+    "title": "Gulab Jamun",
+    "prep_time": "10 minutes",
+    "cook_time": "40 minutes",
+    "servings": "10",
+    "nutrition": {
+      "energy": "219 Kcal",
+      "fat": "3 g",
+      "protein": "2 g",
+      "carbohydrates": "47 g"
+    },
+    "ingredients": [
+      {
+        "item": "Khoya (Firmly Packed)",
+        "quantity_unit": "100 grams"
+      },
+      {
+        "item": "Refined Flour",
+        "quantity_unit": "1 tbsp"
+      },
+      {
+        "item": "Baking Soda",
+        "quantity_unit": "1/2 tsp"
+      },
+      {
+        "item": "Sugar",
+        "quantity_unit": "2 cups"
+      },
+      {
+        "item": "Water",
+        "quantity_unit": "2 cups"
+      },
+      {
+        "item": "Milk (Mixed with a little water)",
+        "quantity_unit": "2 tbsp"
+      },
+      {
+        "item": "Green Cardamom (Slightly Crushed)",
+        "quantity_unit": "4 pieces"
+      },
+      {
+        "item": "Ghee",
+        "quantity_unit": "For frying"
+      },
+      {
+        "item": "Cube of Bread",
+        "quantity_unit": "1 (for temperature control while frying)"
+      }
+    ],
+    "method": "Mash the khoya using the heel of your palm or the base of a flat bowl until smooth. Mix in the flour and baking soda, kneading into a firm but pliable dough. Wet hands if the dough feels dry. Shape the dough into smooth, marble-sized balls (jamuns), either round or oblong. Heat ghee in a karahi, then fry a cube of bread until light brown to lower the temperature of the ghee. Remove the bread and gently add the jamuns, ensuring they do not touch each other. Keep the heat low and fry the jamuns until golden-brown all over. Repeat in batches, adjusting the heat as needed. For the syrup, mix sugar and water in a pan over low heat, stirring until sugar dissolves. Bring to a boil, then add the milk-water mixture and continue boiling on high without stirring. Skim off any residue from the sides. Cook until syrup slightly thickens. Remove from heat and cool for at least 30 minutes before adding jamuns."
+  },
+  {
+    "page": 58,
+    "title": "Gajar Ka Halwa",
+    "prep_time": "15 minutes",
+    "cook_time": "1 hour 45 minutes",
+    "servings": "3",
+    "nutrition": {
+      "energy": "184 Kcal",
+      "fat": "7 g",
+      "protein": "6 g",
+      "carbohydrates": "25 g"
+    },
+    "ingredients": [
+      {
+        "item": "Carrot (Shredded)",
+        "quantity_unit": "1 kg (about 4.5 cups)"
+      },
+      {
+        "item": "Organic Milk",
+        "quantity_unit": "4 cups"
+      },
+      {
+        "item": "Ghee",
+        "quantity_unit": "10-12 tbsp"
+      },
+      {
+        "item": "Sugar",
+        "quantity_unit": "10-12 tbsp"
+      },
+      {
+        "item": "Cashew Nuts",
+        "quantity_unit": "20-25 pcs"
+      },
+      {
+        "item": "Cardamom Powder",
+        "quantity_unit": "5-6 pinches"
+      },
+      {
+        "item": "Saffron",
+        "quantity_unit": "1 pinch"
+      },
+      {
+        "item": "Raisins",
+        "quantity_unit": "Handful"
+      }
+    ],
+    "method": "Peel and grate the carrots (8-9 medium-sized tender carrots). On low heat, bring the milk and carrots mixture to a boil, then simmer. Cook until the milk reduces by about 75%. Add ghee, sugar, and cardamom powder, stirring continuously. Towards the end, add cashews, saffron, and raisins. Continue to cook until all the milk evaporates and the mixture thickens. Serve Gajar Ka Halwa warm, or let it cool for a chilled dessert option."
+  },
+  {
+    "page": 60,
+    "title": "Multani Halwa",
+    "prep_time": "30 minutes",
+    "cook_time": "30 minutes",
+    "servings": "4",
+    "nutrition": {
+      "energy": "375 Kcal",
+      "fat": "15 g",
+      "protein": "6 g",
+      "carbohydrates": "54 g"
+    },
+    "ingredients": [
+      {
+        "item": "Milk",
+        "quantity_unit": "1 litre"
+      },
+      {
+        "item": "Lemon Salt",
+        "quantity_unit": "½ tsp"
+      },
+      {
+        "item": "White Flour",
+        "quantity_unit": "½ tsp"
+      },
+      {
+        "item": "Sprouted Wheat Flour",
+        "quantity_unit": "6 tbsp"
+      },
+      {
+        "item": "Sugar",
+        "quantity_unit": "1 cup"
+      },
+      {
+        "item": "Pure Ghee",
+        "quantity_unit": "4 tbsp"
+      },
+      {
+        "item": "Green Cardamom",
+        "quantity_unit": "4-5"
+      },
+      {
+        "item": "Almonds",
+        "quantity_unit": "as required"
+      },
+      {
+        "item": "Walnuts",
+        "quantity_unit": "as required"
+      }
+    ],
+    "method": "In a deep pan, boil milk and add white flour, sprouted wheat flour, and lemon salt. Stir lightly and let the mixture boil for 5 minutes. Cook on low heat constantly until the paneer mixture reduces by half. Gradually add sugar while stirring slowly to avoid lumps. Once smooth and thick, add ghee and continue cooking. After 20-25 minutes, the mixture should stop sticking to the pan and leave the sides clean. Mix in almonds and walnuts, spread evenly in a dish, and cut into desired shapes (diamond or square). Garnish with pistachios and almonds before serving."
+  },
+  {
+    "page": 61,
+    "title": "Zarda",
+    "prep_time": "10 minutes",
+    "cook_time": "40 minutes",
+    "servings": "6",
+    "nutrition": {
+      "energy": "818 Kcal",
+      "fat": "21 g",
+      "protein": "6 g",
+      "carbohydrates": "150 g"
+    },
+    "ingredients": [
+      {
+        "item": "Yellow Colouring",
+        "quantity_unit": "a pinch"
+      },
+      {
+        "item": "Salt",
+        "quantity_unit": "a pinch"
+      },
+      {
+        "item": "Cloves",
+        "quantity_unit": "2 pieces"
+      },
+      {
+        "item": "Cinnamon",
+        "quantity_unit": "1 stick"
+      },
+      {
+        "item": "Cardamom",
+        "quantity_unit": "3 (small)"
+      },
+      {
+        "item": "Oil",
+        "quantity_unit": "½ cup"
+      },
+      {
+        "item": "Water",
+        "quantity_unit": "½ cup"
+      },
+      {
+        "item": "Sugar",
+        "quantity_unit": "1 kg"
+      },
+      {
+        "item": "Rice",
+        "quantity_unit": "½ kg"
+      },
+      {
+        "item": "Khoya and Nuts",
+        "quantity_unit": "for garnishing"
+      }
+    ],
+    "method": "Boil water with yellow colouring and salt. Add cloves, cinnamon stick, and cardamoms. Add washed rice to the mixture and cook until 90% done, then drain. Heat oil and add 2 cups of water. Add sugar and mix well until sugar dissolves. Add boiled rice and cook on high flame. When water dries up, place the lid on top and lower the flame. Simmer for 15 minutes. Garnish with khoya and nuts before serving."
+  },
+  {
+    "page": 65,
+    "title": "Doodh Pati",
+    "prep_time": "5 minutes",
+    "cook_time": "15 minutes",
+    "servings": "4",
+    "nutrition": {
+      "energy": "110 Kcal",
+      "fat": "5 g",
+      "protein": "3 g",
+      "carbohydrates": "14 g"
+    },
+    "ingredients": [
+      {
+        "item": "Milk",
+        "quantity_unit": "as required"
+      },
+      {
+        "item": "Water",
+        "quantity_unit": "as required"
+      },
+      {
+        "item": "Green Cardamom",
+        "quantity_unit": "2-3 pods"
+      },
+      {
+        "item": "Tea (black)",
+        "quantity_unit": "1-2 tsp"
+      },
+      {
+        "item": "Sugar",
+        "quantity_unit": "to taste"
+      }
+    ],
+    "method": "Cook milk and water in a pan until it comes to a boil. Add sugar, tea, and cardamom, and simmer the mixture for 2-3 minutes. Beat mixture well and serve hot."
+  },
+  {
+    "page": 68,
+    "title": "Peshawari Qahwa",
+    "prep_time": "5 minutes",
+    "cook_time": "15 minutes",
+    "servings": "3",
+    "nutrition": {
+      "energy": "52 Kcal",
+      "fat": "0 g",
+      "protein": "0 g",
+      "carbohydrates": "14 g"
+    },
+    "ingredients": [
+      {
+        "item": "Green Tea Leaves",
+        "quantity_unit": "2 tsp"
+      },
+      {
+        "item": "Cardamom",
+        "quantity_unit": "3 pods"
+      },
+      {
+        "item": "Water",
+        "quantity_unit": "4 cups"
+      },
+      {
+        "item": "Gur (Jaggery)",
+        "quantity_unit": "as per taste"
+      }
+    ],
+    "method": "Boil 2 cups of water in a pan. While the water is heating, slightly crush the cardamom and add to the water. Bring the mixture to a boil. When water starts bubbling, add 1 tsp of green tea. After 3-5 seconds, turn off the stove. Serve Peshawari Qahwa in cups alongside gur."
+  },
+  {
+    "page": 70,
+    "title": "Shikanjbeen",
+    "prep_time": "10 minutes",
+    "cook_time": "20 minutes",
+    "servings": "5",
+    "nutrition": {
+      "energy": "12 Kcal",
+      "fat": "0 g",
+      "protein": "0 g",
+      "carbohydrates": "3 g"
+    },
+    "ingredients": [
+      {
+        "item": "Sugar",
+        "quantity_unit": "1 tbsp"
+      },
+      {
+        "item": "Honey",
+        "quantity_unit": "to taste"
+      },
+      {
+        "item": "Water",
+        "quantity_unit": "5 cups"
+      },
+      {
+        "item": "Lemon Juice",
+        "quantity_unit": "10 tbsp"
+      },
+      {
+        "item": "Black Salt",
+        "quantity_unit": "1/2 tsp (4 pinches)"
+      }
+    ],
+    "method": "Mix honey and water in a pot and stir. Bring the mixture to a boil, stirring constantly until the honey dissolves. Reduce flame to low, and simmer for about 20 minutes until syrup flavors combine. Remove from heat and submerge mint in the hot syrup. Cool to room temperature, then remove and discard the mint. Chill in the refrigerator before serving."
+  },
+  {
+    "page": 71,
+    "title": "Kashmiri Chai",
+    "prep_time": "5 minutes",
+    "cook_time": "50 minutes",
+    "servings": "4",
+    "ingredients": [
+      {
+        "item": "Milk",
+        "quantity_unit": "1 litre"
+      },
+      {
+        "item": "Almonds (crushed)",
+        "quantity_unit": "20 grams"
+      },
+      {
+        "item": "Pistachios (crushed)",
+        "quantity_unit": "20 grams"
+      },
+      {
+        "item": "Kashmiri tea leaves",
+        "quantity_unit": "3 tbsp"
+      },
+      {
+        "item": "Star anise",
+        "quantity_unit": "3"
+      },
+      {
+        "item": "Cinnamon",
+        "quantity_unit": "5 grams"
+      },
+      {
+        "item": "Cardamom",
+        "quantity_unit": "7"
+      },
+      {
+        "item": "Baking soda",
+        "quantity_unit": "1/2 tsp"
+      },
+      {
+        "item": "Water (cold)",
+        "quantity_unit": "300 ml"
+      },
+      {
+        "item": "Sugar",
+        "quantity_unit": "as needed"
+      }
+    ],
+    "method": "Add water, Kashmiri tea leaves, star anise, baking soda, cinnamon, cardamom, and salt in a pot. Simmer and boil until the water reduces to half. Add 2 glasses of cold water, stir, and simmer for 5-7 minutes. Qahwa is now ready. In another pot, add milk, almonds, pistachios, and sugar. Boil for 5-7 minutes. Add the prepared Qahwa and boil the mixture on low flame for 12-15 minutes. Serve hot.",
+    "nutrition": {
+      "energy": "217 Kcal",
+      "fat": "14 g",
+      "protein": "9 g",
+      "carbohydrates": "15 g"
+    }
+  }
+]
