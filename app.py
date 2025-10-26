@@ -12,24 +12,24 @@ from langchain.docstore.document import Document
 from langchain.chains import RetrievalQA
 from langchain.prompts import ChatPromptTemplate
 from transformers import CLIPProcessor, CLIPModel
-from langchain_google_genai import GoogleGenerativeAI
+
 from PIL import Image
 import faiss
 from langchain_community.docstore.in_memory import InMemoryDocstore
 import torch
-
-with open(r"E:\New folder\Agentic Ai\GOOGLE_API_KEY", "r") as file:
-    google_api_key = file.read().strip()
-
-
-
 from flask import Flask, render_template, redirect, url_for, flash, request
+
+
+BASE_DIR = Path(__file__).resolve().parent
+
+with open(BASE_DIR / "GOOGLE_API_KEY", "r") as file:
+    google_api_key = file.read().strip()
 
 app = Flask(__name__)
 
 # Tab 1 Code starts here
 
-with open("E:\\New folder\\Agentic Ai\\Nutrition Food\\Documents\\dining_indus_recipes.json", "r", encoding="utf-8") as f:
+with open(BASE_DIR / "Documents" / "dining_indus_recipes.json", "r", encoding="utf-8") as f:
     recipes = json.load(f)
 
 
@@ -85,7 +85,8 @@ def format_response(response_text):
 
 def build_or_load_db():
     embeddings = OllamaEmbeddings(model="nomic-embed-text")
-    db_path = "E:\\New folder\\Agentic Ai\\Nutrition Food\\faiss_dining_indus"
+    db_path = BASE_DIR / "faiss_dining_indus"
+
 
     if os.path.exists(db_path):
         return FAISS.load_local(
@@ -108,16 +109,12 @@ def build_or_load_db():
 
 vectordb = build_or_load_db()
 retriever = vectordb.as_retriever(search_type="similarity", search_kwargs={"k": 3})
-model_mistral = GoogleGenerativeAI(
-    model="gemini-2.5-flash",
-    google_api_key=google_api_key,
-    temperature=0.3,
-)
+model_mistral = OllamaLLM(model="mistral")
 CUSTOM_RAG_PROMPT = ChatPromptTemplate.from_messages([
     (
         "system",
         (
-            """ You are a helpful food assistant.
+              """ You are a helpful food assistant.
 
             Step 1 — Classify the question:
             - If it is about how to cook, ingredients, methods, or recipes → choose RECIPE MODE.
@@ -161,6 +158,7 @@ CUSTOM_RAG_PROMPT = ChatPromptTemplate.from_messages([
             Question: {question}
             Answer:
             """
+            
         )
     )
 ])
@@ -218,7 +216,7 @@ def image_encoder(image_file):
         return None
 
 def build_or_load_clip_db():
-    db_path = "E:\\New folder\\Agentic Ai\\Nutrition Food\\faiss_dining_indus_clip"
+    db_path = BASE_DIR / "faiss_dining_indus_clip"
 
     if os.path.exists(db_path):
         return FAISS.load_local(
