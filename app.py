@@ -22,8 +22,7 @@ from flask import Flask, render_template, redirect, url_for, flash, request
 
 BASE_DIR = Path(__file__).resolve().parent
 
-with open(BASE_DIR / "GOOGLE_API_KEY", "r") as file:
-    google_api_key = file.read().strip()
+
 
 app = Flask(__name__)
 
